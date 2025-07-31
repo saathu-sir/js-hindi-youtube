@@ -1,17 +1,16 @@
-const accountId = 144553
-let accountEmail = "hitesh@google.com"
-var accountPassword = "12345"
-accountCity = "Jaipur"
+const accountId = "saathu_sir_2011"
+let accountEmail = "saathusir@gmail.com"
+var accountPassword = "saathu2011"
+accountCity = "kasganj"
 let accountState;
 
 // accountId = 2 // not allowed
 
-
-accountEmail = "hc@hc.com"
-accountPassword = "21212121"
-accountCity = "Bengaluru"
+    //long run comment /*accountEmail = "hc@hc.com" 
 
 console.log(accountId);
+
+accountState = "closed";
 
 /*
 Prefer not to use var
